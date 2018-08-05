@@ -1,0 +1,26 @@
+{
+  "name": "protractor-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor.conf.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^4.2.1",
+    "protractor-cucumber-framework": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cucumber"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosaadm/protractor-automation.git"
+  },
+  "author": "mosaad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosaadm/protractor-automation/issues"
+  },
+  "homepage": "https://github.com/mosaadm/protractor-automation#readme"
+}
